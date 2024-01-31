@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 <!--
 
 **Here are some ideas to get you started:**
